@@ -1,0 +1,319 @@
+---
+title:  "The Great Pyramid 'mystery solved' or two Great Problems that continue to plague 
+archaeoastronomical claims?"
+date:   2018-04-19 12:00:00
+categories: [jekyll]
+tags: [jekyll]
+---
+
+Archaeoastronomy was [recently in the news](https://www.dailymail.co.uk/sciencetech/article-5413253/Secret-Great-Pyramids-near-perfect-alignment-revealed.html) with a paper that supposedly solved “the secret 
+behind the peculiar alignment of the Great Pyramid”. The news articles going around, for 
+once, actually do a good job at describing the nature of the research paper, written by 
+Glen Dash, and they even provide a link to the academic paper – which was published in _The
+ Journal of Ancient Egyptian Architecture_, vol.2 in 2017, and can be downloaded for free 
+ [here](http://www.egyptian-architecture.com/JAEA2/JAEA2_Dash). Unfortunately, it’s not a case of the media stepping up the way they describe 
+ complex academic topics, but of a poorly argued paper.
+
+The author sets off to test one hypothesis for the alignments of the Fourth Dynasty 
+Ancient Egyptian pyramids, structures that are well-known for being very accurately placed
+ and orientated so that their faces match the cardinal points (e.g. [Lehner 2008](https://archive.org/details/MarkLehner.......TheCompletePyramids)). This 
+ feature continues unto the Fifth Dynasty when the Pyramid Texts first appear, and which 
+ help us understand the reason for this. The entrance to the pyramids’ inner chamber, 
+ where the King’s body was laid to rest, was located on its north face so that the King’s 
+ spirit would depart his dead body and ascend to the northern sky to become one with the 
+ _imperishable stars_ – what today we call circumpolar stars, stars that never rise nor set 
+ and, hence, are visible every night throughout the year – something that is made clear in
+  the so-called King’s Ascension myth, though clouded in the theology and cosmology of its
+   time (e.g. Faulkner 1966, Brady 2012).
+
+But the question Dash addresses, as so many before him did, is not _why_ the pyramids are 
+orientated in this way, but _how_. How could the ancient Egyptians achieve such high degrees
+ of accuracy? For scale, consider that the Great Pyramid is off an exact 
+ North-South-East-West alignment by a mere 3’: that’s 3 arcminutes or 0.05 degrees. That’s
+  roughly the perceived width of two stacked birthday cards (1mm) when held at arm’s 
+  length – a pretty small error.
+
+
+## Dash’s Method
+In his concise introduction Dash remarks that four candidate methods ‘have been tested and
+ found workable’ (p.1), namely Flinders Petrie’s pole star method, Joseph Dorner’s 
+ circumpolar star method, Kate Spence’s simultaneous transit method and Martin Isler’s 
+ gnomon shadow method. Dash, however, sets out to test a fifth method which, according to 
+ him, was previously thought not to allow for the required accuracy to be achieved: the 
+ equinoctial solar gnomon method.
+
+This is a specific case of the gnomon shadow method, where a straight rod (the gnomon) is 
+placed vertically and the shadow cast by it from sunrise to sunset observed and marked. 
+From its trajectory a perfectly-oriented East-West line can be extracted. The equinoctial 
+variant involves doing pretty much the same but on the days of the equinox (usually March 
+20 and September 22). On these specific days, the path made by the tip of the gnomon’s 
+shadow makes not a parabola but a line going straight from West to East.
+
+To empirically test the accuracy of this method, Dash created an experimental setup and, 
+on a single trial, found it to have a mean error of 7.3’, close to the mean level of 
+accuracy of three of the Egyptian pyramids.
+
+ Figure 1 goes here
+
+A lot can be said about this. For example, that more trials are needed. On September 22nd,
+ 2016, the day Dash did his experiment, the sun rose 3’ off true East and set 8’ off true 
+ West, not far from his mean error; but on March 20th, 2017 – the following equinox – it 
+ would have risen 0.47’ off true East and set 12.5’ off true West. How much error would 
+ his experimental setup give then? The sun doesn’t rise nor set exactly at East and West 
+ every equinox, it is always slightly off, and this offset induces an error in the 
+ equinoctial solar gnomon method. Furthermore, what if the exact date of the equinox was 
+ missed? If Dash had run his experiment the following day (September 23rd, 2016) the sun 
+ would have risen 20’ off East and set 32’ off West. How much deviation from a true 
+ East-West direction would he have measured then?
+
+Dash has certainly demonstrated that the method _can be_ accurate to within 7’ – but not 
+that the method _is always_ that accurate. Was the reported level of accuracy due to sheer 
+luck? A method might have high accuracy but low precision, meaning that under subsequent 
+trials the range of values obtained might vary considerably. More trials are needed to 
+explore the full range of equinoctial sunrises and sunsets, as well as how much 
+variability there is around the day of the equinox, and therefore obtain a better grasp of
+ the sources of uncertainty in the experimental setup. Since he has already developed the 
+ experimental setup I would encourage him to run more trials and fully report his findings.
+
+
+## Underlying Assumptions
+But what I would like to focus on are the underlying assumptions that the equinoctial 
+gnomon method requires. The first assumption is obvious: that the society in question were
+ aware of the properties of a shadow cast by a gnomon. Gnomons are known from a variety of
+  societies across different time periods. For Ancient Egypt in particular, [Martin Isler 
+  (1991)](http://www.jstor.org/stable/40000578) has made a case for the gnomon with recourse to Egyptian iconography and 
+  associated descriptions. [Sarah Symons (1999)](https://lra.le.ac.uk/handle/2381/8546) has further extended this by looking at 
+  Ancient Egyptian sundials, which are but complex gnomons.
+
+Another requirement to the application of Dash’s method is that one does so at the day of 
+the equinox. This involves three further assumptions: firstly, that the society in 
+question conceived of the equinox; secondly, that their concept of equinox coincided with 
+ours; and finally, that they could predict the date of the equinox accurately (i.e. to 
+within a day). These assumptions are less tenable. Although the equinox has become one of 
+the celestial events archaeoastronomers always consider as potential targets for 
+alignments, the number of culturally contextualized and widely recognized cases is 
+remarkably small. And there are good reasons for that since the equinoxes, unlike the 
+solstices, are neither observable nor empirically obvious, but rather require a conceptual
+ toolbox to calculate, and therefore predict, the date of their occurrence. This makes 
+ their universalization a highly problematic and hotly-debated topic within cultural 
+ astronomy, which has recently been reiterated in an [open access reprint](https://journals.equinoxpub.com/index.php/JSA/article/view/33312) of Clive L. N. 
+ Ruggles’ paper ‘Whose Equinox?’, with a [modern postscript](https://journals.equinoxpub.com/index.php/JSA/article/view/33312) by the same scholar.
+
+The problem is that the equinox as we currently define it, is the moment at which the sun 
+crosses the celestial equator. This is a modern mathematical and astronomical abstraction 
+which cannot be empirically observed or measured, let alone predicted without recourse to,
+ as Ruggles put it (p.129), ‘the framework of Greek geometrical astronomy that underlies 
+ the Western scientific tradition […]. But from the perspective of a totally different 
+ world-view devoid of these underlying geometrical concepts, finding an explanation of 
+ “our” equinox would be far from simple, and possibly it could make no sense at all.’ 
+ There are a number of ways in which “an” equinox can be obtained, for instance by either 
+ (1) finding the spatial mid-point between the rising (or setting) position of the sun at 
+ the solstices; (2) finding the half-way moment in time between the two solstices and 
+ aiming for sunrise (or set) on that day; (3) finding the day sunrise and sunset occur in 
+ exactly opposite directions; or (4) finding the day on which the length of time between 
+ sunrise and sunset is roughly the same as between sunset and sunrise. None of methods 
+ gives an accurate estimate of it – the only exception being method (1) when conducted 
+ from a location with a perfectly flat horizon – making them unusable in combination with 
+ Dash’s method.
+
+It is dubious whether the ancient Egyptians had, or even cared about, the notion of an 
+equinox (see, for example, the discussion on the eastern family of Ancient Egyptian temple
+ orientations [here](http://www.iac.es/proyecto/arqueoastronomia/media/Belmonte_Shaltout_Chapter_8_I.pdf)). Assuming that other societies had the notion of equinox falls under 
+ the “sins” of [ethnocentrism](http://www.oxfordbibliographies.com/view/document/obo-9780199766567/obo-9780199766567-0045.xml) and anachronism, the uncalled-for projection of modern 
+ western biases unto other societies, past or present – something that has plagued 
+ archaeoastronomical studies from early on, with the uncontextualized claims of 
+ ‘astronomer-priests’ and ‘prehistoric observatories’. But this isn’t the only problem.
+
+## Fallacious claims
+In [_On Sophistical Refutations_](https://ebooks.adelaide.edu.au/a/aristotle/sophistical/index.html) Aristotle identified thirteen fallacies of logic, one of 
+which became known as ‘affirming the consequent’, ‘converse error’ or ‘confusion of 
+necessity and sufficiency’. It results when a necessary condition is mistaken for a 
+sufficient condition and then, in the presence of the necessary (but not sufficient) 
+condition the consequent is invalidly affirmed. Let’s look at an example from Aristotle:
+
+> If it has been raining, then the ground is wet.
+> The ground is wet.
+> Therefore, it has been raining.
+
+This is not necessarily true, since there are a number of other possible reasons for the 
+ground to be wet. Let’s take just one more example, this time from [Wikipedia](https://en.wikipedia.org/wiki/Affirming_the_consequent), which will 
+perhaps make the fallacy more obvious: 
+
+> If Bill Gates owns Fort Knox, then Bill Gates is rich.
+> Bill Gates is rich.
+> Therefore, Bill Gates owns Fort Knox.
+
+The two premises are obviously true, but the conclusion is, equally obviously, false. This
+ same fallacy exists even if we replace these words with others, for example:
+
+> If the Great Pyramid was aligned using the equinoctial gnomon method, 
+then using the equinoctial gnomon method I will observe similar errors.
+> I observe similar errors.
+> Therefore, the Great Pyramid was aligned using the equinoctial gnomon method.
+
+The logical fallacy is still present – all I did was swap some words to form new 
+statements, the logical structure remains the same – but it is now more obvious to spot. 
+No amount of experimental work or increased accuracy of a method (any method) will ever 
+make this anything but a logical fallacy. And this is because what Dash demonstrated – 
+the high accuracy of his method – is a necessary but not sufficient condition. In other 
+words, we know the Egyptians used a high-accuracy method, and so any proposed method must 
+feature such levels of accuracy. High-accuracy is therefore a necessary condition to 
+accept the method was used by the ancient Egyptians, but it is not sufficient. There are a
+ host of other methods with similar levels of accuracy, as indeed Dash highlights. They 
+ may, or may not, be as simple as his but some of them have something that Dash’ 
+ hypothesis lacks: cultural and historical context (more on this below).
+
+In fairness to Dash he is not the first one to fall for this fallacy, it seems to be a 
+recurring theme in archaeoastronomical claims. There are many examples to pick from, but I
+ would like to refer to one of the most famous and also one which brought archaeoastronomy
+  to the public’s attention in the late 1960s: the idea that the Aubrey Holes at 
+  Stonehenge could be used as an eclipse predictor. This idea was first posited by Gerald 
+  Hawkins in a Nature journal article titled ‘Stonehenge: a Neolithic computer’ (1964). 
+  Hawkins saw the 56 Aubrey holes as a giant dial, where by moving a number of stones one 
+  hole each year, ‘this simple operation will predict accurately every important lunar 
+  event for hundreds of years’ (1964: 1259), including the prediction of eclipses. Fred 
+  Hoyle (1966), the famous astronomer, later highlighted some issues in Hawkins’ treatment
+   but proposed a simpler method which required only four stones, representing the moon, 
+   the sun and the two lunar nodes. These, when moved around the Aubrey holes circle 
+   following set rules, allow for eclipses to be predicted, including ones that were not 
+   observable from Stonehenge. These notions were, and still are, criticized by 
+   archaeologists and archaeoastronomers alike (e.g. Hawkes 1967, Ruggles 1999), but 
+   rather than repeat those arguments I want to merely highlight the logical fallacy that 
+   is at the core of such argumentation:
+
+> If the Aubrey Holes were built to predict eclipses, 
+then I would be able to use them to predict eclipses.
+> I am able to use them to predict eclipses.
+> Therefore, the Aubrey Holes were built to predict eclipses.
+
+Well, not quite. Students of mine at TSD will remember me calling this “Hawkins’ fallacy” 
+in a number of lectures, where I more succinctly tried to impress on them the following 
+rule-of-thumb: “just because I can see something there today, it doesn’t automatically 
+mean it was built for that purpose back then”.
+
+## Did Occam ever cut himself shaving?
+Returning to Dash, and to his credit, he is never so bold as to explicitly make such a 
+claim. He rather leaves it implied in his own short conclusion (p. 7):
+
+> “As to the methods they actually did use, the Egyptians, unfortunately, left us few clues.
+ […] Nonetheless, among our choices, the equinoctial solar gnomon method has a certain 
+ appeal. It produces results that match the actual alignments of the largest pyramids of 
+ the pyramid age in magnitude and direction. It is also the ‘Occam’s Razor’ candidate. It 
+ is hard to imagine a method that could be simpler either conceptually or in practice.”
+
+Rather than construct a carefully crafted and historically contextualized argument for his
+ method, for example with recourse to what little is known of ancient Egyptian 
+ architectural techniques, he prefers to invoke [Occam’s razor](https://www.britannica.com/topic/Occams-razor). This principle, also known 
+ as the principle of unnecessary plurality, states that among a set of solutions the 
+ simplest one is the most likely one. Aristotle, who was probably the first to posit this 
+ principle in his _Posterior Analytics_, wrote: ‘_Other things being equal_, we may assume the
+  superiority of the demonstration which derives from fewer postulates or hypotheses’ 
+  (emphasis mine).
+
+As Dash suggests that ‘it is hard to imagine a method that could be simpler either 
+conceptually or in practice’ it is no wonder that he appeals to Occam’s principle. But 
+Dash hasn’t taken into account the ethnocentric assumptions we highlighted above regarding
+ the equinox. Indeed, when comparing his method to some of the others, _other things are 
+ not equal_, for Dash doesn’t attempt to socio-historically contextualize, or even argue, 
+ for his method, whereas other scholars have done exactly that.
+
+In fact, Dash ignores a number of other methods proposed by scholars through the ages. I’d
+ especially like to focus on one proposed in 2001 by Juan Antonio Belmonte, published in 
+ the _Journal for the History of Astronomy_ and freely available online [here](http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&bibcode=2001JHAS...32....1B&letter=0&classic=YES&defaultprint=YES&whole_paper=YES&page=1&epage=1&send=Send+PDF&filetype=.pdf). It is a simple
+  adjustment to Kate Spence’s method of simultaneous transit with added historical context
+   based on Ancient Egyptian iconography and cosmology. In this method, the cardinal 
+   directions are not identified from an East-West line, as in Dash’s method, but from a 
+   North-South line. This could have been done during the Old Kingdom, my observing the 
+   simultaneous transit of the stars Megrez and Phekda or Ursa Major – that is by 
+   identifying when these two stars were perfectly vertical, which they only did when 
+   crossing, or transiting, the meridian line. When this happens, the line formed by these
+    stars, when extended down to the horizon, will mark the North point. 
+
+ Figure 2 goes here
+
+To ensure high accuracy, a tool or instrument is needed and for this Belmonte looked at 
+both the Ancient Egyptian texts and iconography. The Stretching of the Cord ceremony, 
+engraved on the walls of the Temple of Horus at Edfu, describes how the foundations of a 
+temple were established. In them, the King says (pp. S6-S7):
+	
+> ‘I have grasped the stake along with the handle of the mallet. I take the measuring cord 
+in the company of Seshat. I observe the progressive movement of the stars. My eye is now 
+fixed upon _Meskhet(yu)_. The god of time-keeping stands by me, in front of his merkhet. 
+Then, I have established the four corners of your temple.’
+
+As was typical of the Ancient Egyptians, theology and functionality were merged in the 
+language of monumental inscriptions. Nevertheless, the linkage between this ceremony, the
+ goddess Seshat and the observation of _Meskhetyu_ is made quite clear in this, and other, 
+ inscriptions. _Meskhetyu_, the Bull’s Foreleg, is the northern constellation par excellence
+  in Egyptian cosmology and corresponds exactly to the modern asterism of the Big Dipper, 
+  in Ursa Major, where we find the stars Megrez and Phekda.
+
+Belmonte has further suggested that ‘originally, the Seshat sign [the goddess’ headdress] 
+might in fact have been a device (a high pole or flagstaff, similar to those put in front 
+of the temples and chapels, with a pair of parallel stakes on top) to observe the upper 
+meridian culminations of stars near the Pole, whose exact position would be indicated by 
+the seven-point star’ (p.S15). In a further refinement of this hypothesis, [Belmonte, 
+Molinero Polo and Miranda](http://iac.es/proyecto/arqueoastronomia/media/Belmonte_Shaltout_Chapter_7.pdf) have suggested the two-dimensional seven-pointed star might have
+ represented a horizontal eight-pointed star that, once the alignment with Megrez and 
+ Phekda was conducted, would automatically yield the cardinal and cross-cardinal 
+ directions.
+
+ Figure 3 goes here
+
+This method involves three assumptions: 1) that the Egyptians were aware of Megrez and 
+Phekda; 2) that they noticed its relation to North; and 3) that they had the instrumental 
+means to take advantage of it. Belmonte, in his article, convincingly argues for all these
+ points with recourse to what is known from the Ancient Egyptians themselves, namely: 1) 
+ the important role of the constellation of _Meskhetyu_; 2) its relation to the north; and 
+ made a case for 3) the Seshat headdress, which features in the foundation ritual of 
+ ancient Egyptian temples, as an instrument that would aid in establishing the directions. 
+
+There are other reasons why this hypothesis is more palatable. Firstly, it could be 
+employed almost every night in the year (particularly if both lower and upper culmination 
+are considered) whereas Dash’s can only be used on two days in the year – the equinoxes. 
+Furthermore, axial precession and proper motion continuously moved the stars from their 
+positions meaning that the accuracy of this method fluctuated during the Old Kingdom. 
+Belmonte’s analysis suggests that the fluctuation in the method’s error tracked the d
+eviation from true cardinality in the Fourth Dynasty pyramids, and that overwhelming 
+error margins were the reason behind a change of method in the early Fifth Dynasty. 
+
+All in all, both Dash’s and Belmonte’s hypothesis make a similar number of assumptions, 
+but Belmonte’s requires fewer speculative leaps since most of the assumptions are 
+substantiated by a careful reading of the historical and iconographic records whereas 
+Dash’s assumptions remain unargued and unproven.
+
+
+## In Conclusion
+Occam’s razor has become a banner behind which sceptics counter fantastic claims while 
+creationists counter Darwinian evolution ([see here](http://skepdic.com/occam.html)). It finds a natural home in the exact 
+and mathematical sciences. With this I don’t mean to say that it cannot be used in the 
+Humanities – it most certainly can. But in order to apply it correctly, we need to make 
+sure all the assumptions in the hypotheses being contrasted are identified and exposed –  
+we need to ensure that _all other things are indeed equal_. Only then can one ask oneself 
+what constitutes “the simplest solution”. Is it a method that is technically simple to 
+implement but conceptually biased and lacking in socio-historical context? Or an arguably 
+even simpler method that is based on concepts that are grounded in the beliefs, practices 
+and iconography of the society under study? To avoid the fallacious affirmation of the 
+consequent requires that we become reflexive, that we acknowledge and identify the 
+assumptions we are bringing to our claims, especially those that we unconsciously and 
+anachronistically project unto other societies. That is the duty of skyscape archaeology.
+
+
+## Find Out More
+Aristotle, 350 BCE. On Sophistical Refutations. Available online [here](http://classics.mit.edu/Aristotle/sophist_refut.html)
+Aristotle, 350 BCE. Posterior Analytics. Available online [here](http://classics.mit.edu/Aristotle/posterior.html)
+Bernadette Brady, 2012. ‘The Egyptian ascension mythology of the Old Kingdom and the phenomenon of star phases’. In H. A. El Gawad, N. Andrews, M. Correas-Amador, V. Tamorri and J. Taylor (eds), 2012. Current Research in Egyptology 2011. Oxford: Oxbow Books, pp. 40-47. 
+Juan A. Belmonte, 2001. ‘On the Orientation of Old Kingdom Egyptian Pyramids’. Journal for the History of Astronomy, Archaeoastronomy supplement no. 26: S1-S20. Available online [here](http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&bibcode=2001JHAS...32....1B&letter=0&classic=YES&defaultprint=YES&whole_paper=YES&page=1&epage=1&send=Send+PDF&filetype=.pdf)
+Juan A. Belmonte and Mosalam Shaltout (eds), 2009. In Search of Cosmic Order: Selected Essays on Egyptian Archaeoastronomy. Cairo: Supreme Council of Antiquities Press.
+Juan A. Belmonte, M.A.M. Polo and N. Miranda, 2009. ‘Unveiling Seshat: New Insights into the Stretching of the Cord Ceremony’. In J. A. Belmonte and M. Shaltout (eds), 2009. In Search of Cosmic Order: Selected Essays on Egyptian Archaeoastronomy. Cairo: Supreme Council of Antiquities Press, pp. 197-212. Available online [here](http://iac.es/proyecto/arqueoastronomia/media/Belmonte_Shaltout_Chapter_7.pdf)
+Raymond O. Faulkner, 1966. ‘The King and the Star-Religion in the Pyramid Texts’. Journal of Near Eastern Studies 25(3): 153-161. Available online [here](http://www.jstor.org/stable/543263)
+Glen Dash, 2017. ‘Occam’s Egyptian razor: the equinox and the alignment of the pyramids’. The Journal of Ancient Egyptian Architecture 2: 1-8. Available online [here](http://www.egyptian-architecture.com/JAEA2/JAEA2_Dash)
+Jacqueta Hawkes, 1967. ‘God in the Machine’. Antiquity 41: 174-180.
+Gerald Hawkins, 1964. ‘Stonehenge: A Neolithic Computer’. Nature 202: 1258-1261.
+Fred Hoyle, 1966. ‘Stonehenge-An Eclipse Predictor’. Nature 211: 454-456.
+Martin Isler, 1991. ‘The Gnomon in Egyptian Antiquity’. Journal of the American Research Center in Egypt 28: 155-185. Available online [here](http://www.jstor.org/stable/40000578)
+Mark Lehner, 2008. The Complete Pyramids: Solving the Ancient Mysteries. London and New York: Thames & Hudson. Available online [here](https://archive.org/details/MarkLehner.......TheCompletePyramids)
+Clive L. N. Ruggles, 1999. Astronomy in Prehistoric Britain and Ireland. New Haven and London: Yale University Press.
+Clive L. N. Ruggles, 2017 [1997]. ‘Whose Equinox?’ Journal of Skyscape Archaeology 3(1): 127-131. Available online [here](https://journals.equinoxpub.com/index.php/JSA/article/view/33312)
+Clive L. N. Ruggles, 2017. ‘Still Whose Equinox?’ Journal of Skyscape Archaeology 3(1): 132-135. Available online [here](https://journals.equinoxpub.com/index.php/JSA/article/view/33329)
+Sarah Symons, 1999. Ancient Egyptian astronomy: timekeeping and cosmography in the new kingdom. PhD Dissertation: University of Leicester. Available online [here](https://lra.le.ac.uk/handle/2381/8546)
